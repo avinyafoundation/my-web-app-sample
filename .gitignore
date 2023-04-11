@@ -9,7 +9,6 @@ node_modules/
 *.gz
 *.md
 *.yml
-*.json
 *.tgz
 *.map
 
